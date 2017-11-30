@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EatFood</string>
+    <string name="title_home">主頁</string>
+    <string name="title_post">刊登</string>
+    <string name="title_history">歷史紀錄</string>
+    <string name="title_personal">個人主頁</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
